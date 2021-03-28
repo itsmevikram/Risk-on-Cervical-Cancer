@@ -8,7 +8,7 @@
 6. Confusion Matrix , a statistical method to find the true positive and negative rate and false positive and negative rate of data, that gives a detail of how the model 
 has predicted followed on what is actually there in the data, i.e. Error rate of Prediction by Algorithm.
 
-#Challeneges
+# Challeneges
 
 1. This is my first classification dataset which I am working on with, dealing with certain things which are new and something which was already learned well and is easy to implement.
 2. Getting the performance score was initially a challenge but later on I found out that what was more necessary to make it work well.
